@@ -142,8 +142,11 @@ SMTP-as-a-service platform SendGrid.net. As such, SendGrid's [privacy
 policy and terms of service](https://sendgrid.com/policies/privacy/)
 apply in this context.
 
-Due to the nature of the email message format, email messages may
-include and SendGrid systems may see the following information:
+Due to the nature of the email message format, while email messages may
+be encrypted in transit (our subsmission IS encrypted, whether your
+email provider accepts encrypted SMTP traffic depends on their specific
+configuration), email messages may include and SendGrid systems may see
+but not store or act on the following information:
 
   - Preliminary passwords or reset-password links;
   - Any message post in any forum or topic you're subscribed to;
