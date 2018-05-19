@@ -1,0 +1,179 @@
+### General guidelines
+
+-   The language of conversation is any flavour of English.
+-   Be excellent to each other!
+-   Do not use abusive or obscene language.
+-   Ad-hominem attacks are not allowed.
+-   Be patient and tactful towards other members.
+-   If you are seeking help, make sure to have done your fair share of
+    homework to the best of your ability by searching the forums or the
+    internet before wasting other\'s time.
+-   Keep individual threads on-topic and do not work towards derailing
+    discussions. Notorious trolls will be banned.
+
+### Registration
+
+-   Please make sure to choose a strong password you are not already
+    using elsewhere.
+
+### Posting style guide
+
+-   Try to use good grammar and spelling, and make your contributions as
+    concise as possible. Remember that English is not the first language
+    of many members.
+-   Make yourself familiar with the available BBCode formatting options.
+    A comprehensive guide [is available](/help.php#bbcode).
+-   Use \[code\] tags when pasting code or configurations into your
+    post. For extremely long chunks of code, consider using a pastebin
+    service. We recommend using
+    [paste.debian.net](https://paste.debian.net).
+-   Do not embed images larger than 250x250px into posts, use thumbnails
+    linking to a hosted image instead. [scrot.moe](https://scrot.moe) is
+    run by a community member, ad-free and nice.
+-   Quoting long posts in their entirety is considered poor forum
+    etiquette. Please edit the \"quotes\" to the points of interest you
+    are referring to.
+
+### Spam policy
+
+-   Spam of any kind is strictly forbidden. This includes the vocal
+    promotion of your own business.
+-   Spammers will be banned without much ado.
+
+### Privacy policy
+
+We strive to operate BunsenLabs services in compliance with the rules of
+the European Union's General Data Protection Rules. By accepting these
+rules, you consent to our your personal information being recorded to
+the extent described below. Our records of your personal data are kept
+as minimal and insignificant as possible as to enable the operation of
+our forums.bunsenlabs.org service only.
+
+#### Request logging at the load balancer level
+
+Every HTTP request to the forums.bunsenlabs.org domain is logged in the
+following form and stored for **one day** in order to ensure that issues
+with request processing can be traced and resolved. IP addresses
+(`remote address`) are stored anonymized in any case (IPv4: lower 16
+bits are set to zero, IPv6: lower 48 bits are set to zero).
+
+```json
+{
+  "time": "2018-05-04T13:17:47+02:00",
+  "status": 200,
+  "bytes_sent": 808,
+  "bytes_received": 345,
+  "request_method": "GET",
+  "request_uri": "/",
+  "http_user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0",
+  "scheme": "https",
+  "server_name": "forums.bunsenlabs.org",
+  "server_protocol": "HTTP/1.1",
+  "uri": "/index.php",
+  "host": "forums.bunsenlabs.org",
+  "connection": 2198229,
+  "remote_addr": "x.x.x.x",
+  "remote_port": 44740,
+  "server_port": 443
+}
+```
+
+#### Data used by the forum software
+
+We use the FluxBB forum software to operate our forums. The software
+requires a certain set of personal information. Other pieces of
+information are optional and may be published by the user.
+
+See below for a list of the mandated data and unconditionally stored
+metadata and the respective purpose of the data bits.
+
+##### Mandatory user-provided data
+
+  - Nick name: Handle defining the log in name and published when
+   posting on the message board.
+
+  - Email address: Required for manual account activation as an
+    abuse countermeasure. Optionally used to subscribe the
+    user to notifications/subscriptions.
+
+Any other data the user provides by configuring his account in addition
+to the above (preferences, signatures, real names, website addresses,
+etc) is not essential but nevertheless stored in the backend database.
+
+##### Collected metadata
+
+  - IP address the user registered from: Used to lock out
+    so-called banned IP ranges and IP addresses from registering
+    in order to block abusive activity. Stored indefinitely.
+
+  - IP address for each post: Used for blocking abusive posters.
+
+##### Banned users
+
+If you abuse our board (using the board in a manner which violates the
+terms set forth in this document), your IP address, email address and
+handle will be stored in perpetuity for **two years** to prevent your
+from using our board. This is necessary since message board abuse is
+rampant and a huge problem for communities such as ours.
+
+##### Third-party services using your data
+
+During the registration process, a Google Captcha is used to ensure that
+an actual human is signing up and not a bot. Your browser will request
+data from and transmit data to Google's servers. In the context of this
+interaction, Google's [privacy policy](https://www.google.com/policies/privacy/)
+applies to its full extent.
+
+You'll be shown the text of this privacy before proceeding to the page
+the captcha is on (by clicking "Accept"), so if you do not consent to
+Google's policy, please close or return from your current browser view.
+
+##### Deleting your data
+
+  - Any personal or profile data you submit to our service is
+    immediately submitted to our database and will overwrite or delete
+    any previous information. Please use this method to purge any such
+    data by yourself. The old information will be part of our disaster
+    recovery backups for **two more days** and then be deleted without a
+    way to recover the data. All backups are stored in an encrypted form
+    using a secure 4096-bit RSA key and are only accessible by the forum
+    administrators.
+
+  - Private messges (PMs) you sent to other users can be deleted from
+    your inbox and outbox in the same manner.
+
+  - For other kind of deletion requests please contact the forum
+    administrators at admin@bunsenlabs.org directly.
+
+  - Note that due to the nature of this message board, even after deleting your
+    personal information, any information you published may already have
+    been seen, archived, copied or textually referenced by other
+    messages on this board or any other internet service. **Everything
+    you post here should be thought of to have been announced to the
+    world**. Please do not use our board if you are not OK with that!
+
+##### Disclaimer regarding linked content
+
+-   The administrators of this board are not responsible in any way for
+    consequences of any sort arising from following links to 3rd-party
+    resources and websites placed on this board.
+-   The administrators are not responsible for user-generated content
+    which infringes upon the rights of third parties or which is
+    illegal, according to German law. The administrators and moderators
+    will however take action to remove and prevent the repeated posting
+    of such content as soon as any issue in that regard comes to their
+    notice.
+-   In order to protect your privacy, our server sends the HTTP header
+    'referrer-policy: same-origin' to your browser to instruct it to not
+    leak the referrer to third-party sites you visit by clicking links
+    on our board. Note however that this policy may not be supported by
+    the browser you're using and therefore should not be taken for
+    granted.
+
+### Staff
+
+-   You can contact the forum administrator by sending an email to
+    admin at bunsenlabs dot org
+    .
+-   Forum administrators are johnraff and twoion.
+-   Forum moderators are damo, Head\_on\_a\_Stick, hhh, and Unia.
