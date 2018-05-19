@@ -49,6 +49,8 @@ the extent described below. Our records of your personal data are kept
 as minimal and insignificant as possible as to enable the operation of
 our forums.bunsenlabs.org service only.
 
+By clicking "Accept", you consent to this privacy policy.
+
 #### Request logging at the load balancer level
 
 Every HTTP request to the forums.bunsenlabs.org domain is logged in the
@@ -118,6 +120,11 @@ rampant and a huge problem for communities such as ours.
 
 ##### Third-party services using your data
 
+We do not transmit your personal data to other services or extents than
+listed below.
+
+###### Google Captcha
+
 During the registration process, a Google Captcha is used to ensure that
 an actual human is signing up and not a bot. Your browser will request
 data from and transmit data to Google's servers. In the context of this
@@ -127,6 +134,27 @@ applies to its full extent.
 You'll be shown the text of this privacy before proceeding to the page
 the captcha is on (by clicking "Accept"), so if you do not consent to
 Google's policy, please close or return from your current browser view.
+
+###### Sendgrid SMTP service
+
+All email traffic send to your from our forum system goes through the
+SMTP-as-a-service platform SendGrid.net. As such, SendGrid's [privacy
+policy and terms of service](https://sendgrid.com/policies/privacy/)
+apply in this context.
+
+Due to the nature of the email message format, email messages may
+include and SendGrid systems may see the following information:
+
+  - Preliminary passwords or reset-password links;
+  - Any message post in any forum or topic you're subscribed to;
+  - Any private message sent to you using the private messaging
+    subsystem.
+  - Your email address.
+
+Only the first registration email is mandatory. You will not receive any
+other emails unless you explicitly opt-in to receive emails, optionally
+with message or post contents, via email on the [privacy page](https://forums.bunsenlabs.org/profile.php?section=privacy)
+in your personal settings.
 
 ##### Deleting your data
 
