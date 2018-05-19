@@ -1,5 +1,5 @@
 See the following:
 
-	* https://github.com/BunsenLabs/website/blob/master/src/donations.mkd
-	* https://github.com/BunsenLabs/website/blob/master/src/imprint.mkd
-	* https://github.com/BunsenLabs/website/blob/master/src/legal.mkd
+* https://github.com/BunsenLabs/website/blob/master/src/donations.mkd
+* https://github.com/BunsenLabs/website/blob/master/src/imprint.mkd
+* https://github.com/BunsenLabs/website/blob/master/src/legal.mkd
