@@ -114,9 +114,10 @@ etc) is not essential but nevertheless stored in the backend database.
 
 If you abuse our board (using the board in a manner which violates the
 terms set forth in this document), your IP address, email address and
-handle will be stored in perpetuity for **two years** to prevent your
-from using our board. This is necessary since message board abuse is
-rampant and a huge problem for communities such as ours.
+handle will be stored in perpetuity to prevent you from using our board.
+This is necessary since message board abuse is rampant and a huge
+problem for small communities such as ours, as moderating all use of the
+board is a very time-consuming task, and time is a scarce resource.
 
 ##### Third-party services using your data
 
