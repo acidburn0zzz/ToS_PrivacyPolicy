@@ -209,5 +209,12 @@ in your personal settings.
 
 -   You can contact the forum administrator by sending an email to
     admin@bunsenlabs.org.
--   Forum administrators are johnraff, twoion.
--   Forum moderators are damo, Head\_on\_a\_Stick, tknohhh, and Unia.
+-   Forum administrators are
+      * johnraff
+      * twoion (aka earlybird)
+-   Forum moderators are
+      * Head_on_a_Stick
+      * Unia
+      * damo
+      * hhh
+      * tknomanzr
