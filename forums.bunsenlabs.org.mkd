@@ -135,6 +135,9 @@ You'll be shown the text of this privacy before proceeding to the page
 the captcha is on (by clicking "Accept"), so if you do not consent to
 Google's policy, please close or return from your current browser view.
 
+**Note that none of the details you entered into the registration form
+are actually being sent to the captcha service.**
+
 ###### Sendgrid SMTP service
 
 All email traffic send to your from our forum system goes through the
