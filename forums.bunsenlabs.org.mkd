@@ -63,7 +63,8 @@ Every HTTP request to the forums.bunsenlabs.org domain is logged in the
 following form and stored for **one day** in order to ensure that issues
 with request processing can be traced and resolved. IP addresses
 (`remote address`) are stored anonymized in any case (IPv4: lower 16
-bits are set to zero, IPv6: lower 48 bits are set to zero).
+bits are set to zero as in 127.127.0.0, IPv6: lower 48 bits are set to zero
+as in fe80:24ed::).
 
 ```json
 {
@@ -80,7 +81,7 @@ bits are set to zero, IPv6: lower 48 bits are set to zero).
   "uri": "/index.php",
   "host": "forums.bunsenlabs.org",
   "connection": 2198229,
-  "remote_addr": "x.x.x.x",
+  "remote_addr": "1.2.0.0",
   "remote_port": 44740,
   "server_port": 443
 }
