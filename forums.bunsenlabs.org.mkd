@@ -1,4 +1,9 @@
-### General guidelines
+  1. [General Guidelines](#general-guidelines)
+  2. [Spam and Abuse Policy](#spam-and-abuse-policy)
+  3. [Privacy Policy](#privacy-policy)
+  4. [Staff](#staff)
+
+## General guidelines
 
 -   The language of conversation is any flavour of English.
 -   Be excellent to each other!
@@ -34,13 +39,14 @@
     etiquette. Please edit the \"quotes\" to the points of interest you
     are referring to.
 
-### Spam policy
+## Spam and abuse policy
 
 -   Spam of any kind is strictly forbidden. This includes the vocal
-    promotion of your own business.
--   Spammers will be banned without much ado.
+    promotion of your own business. Spammers will be permanently banned without ado.
+-   Any other violation of the forum rules may result in a permanent or
+    temporary ban.
 
-### Privacy policy
+## Privacy policy
 
 We strive to operate BunsenLabs services in compliance with the rules of
 the European Union's General Data Protection Rules. By accepting these
@@ -51,7 +57,7 @@ our forums.bunsenlabs.org service only.
 
 By clicking "Accept", you consent to this privacy policy.
 
-#### Request logging at the load balancer level
+### Request logging at the load balancer level
 
 Every HTTP request to the forums.bunsenlabs.org domain is logged in the
 following form and stored for **one day** in order to ensure that issues
@@ -80,7 +86,7 @@ bits are set to zero, IPv6: lower 48 bits are set to zero).
 }
 ```
 
-#### Data used by the forum software
+### Data used by the forum software
 
 We use the FluxBB forum software to operate our forums. The software
 requires a certain set of personal information. Other pieces of
@@ -89,7 +95,7 @@ information are optional and may be published by the user.
 See below for a list of the mandated data and unconditionally stored
 metadata and the respective purpose of the data bits.
 
-##### Mandatory user-provided data
+#### Mandatory user-provided data
 
   - Nick name: Handle defining the log in name and published when
    posting on the message board.
@@ -102,7 +108,7 @@ Any other data the user provides by configuring his account in addition
 to the above (preferences, signatures, real names, website addresses,
 etc) is not essential but nevertheless stored in the backend database.
 
-##### Collected metadata
+#### Collected metadata
 
   - IP address the user registered from: Used to lock out
     so-called banned IP ranges and IP addresses from registering
@@ -110,7 +116,7 @@ etc) is not essential but nevertheless stored in the backend database.
 
   - IP address for each post: Used for blocking abusive posters.
 
-##### Banned users
+#### Banned users
 
 If you abuse our board (using the board in a manner which violates the
 terms set forth in this document), your IP address, email address and
@@ -119,12 +125,12 @@ This is necessary since message board abuse is rampant and a huge
 problem for small communities such as ours, as moderating all use of the
 board is a very time-consuming task, and time is a scarce resource.
 
-##### Third-party services using your data
+#### Third-party services using your data
 
 We do not transmit your personal data to other services or extents than
 listed below.
 
-###### Google Captcha
+##### Google Captcha
 
 During the registration process, a Google Captcha is used to ensure that
 an actual human is signing up and not a bot. Your browser will request
@@ -139,7 +145,7 @@ Google's policy, please close or return from your current browser view.
 **Note that none of the details you entered into the registration form
 are actually being sent to the captcha service.**
 
-###### Sendgrid SMTP service
+##### Sendgrid SMTP service
 
 All email traffic send to your from our forum system goes through the
 SMTP-as-a-service platform SendGrid.net. As such, SendGrid's [privacy
@@ -163,7 +169,7 @@ other emails unless you explicitly opt-in to receive emails, optionally
 with message or post contents, via email on the [privacy page](https://forums.bunsenlabs.org/profile.php?section=privacy)
 in your personal settings.
 
-##### Deleting your data
+#### Deleting your data
 
   - Any personal or profile data you submit to our service is
     immediately submitted to our database and will overwrite or delete
@@ -187,7 +193,7 @@ in your personal settings.
     you post here should be thought of to have been announced to the
     world**. Please do not use our board if you are not OK with that!
 
-##### Disclaimer regarding linked content
+#### Disclaimer regarding linked content
 
 -   The administrators of this board are not responsible in any way for
     consequences of any sort arising from following links to 3rd-party
@@ -205,7 +211,7 @@ in your personal settings.
     the browser you're using and therefore should not be taken for
     granted.
 
-### Staff
+## Staff
 
 -   You can contact the forum administrator by sending an email to
     admin@bunsenlabs.org.
