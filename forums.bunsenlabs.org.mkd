@@ -146,15 +146,15 @@ Google's policy, please close or return from your current browser view.
 **Note that none of the details you entered into the registration form
 are actually being sent to the captcha service.**
 
-##### Sendgrid SMTP service
+##### Sendgrid.com SMTP service
 
 All email traffic send to your from our forum system goes through the
-SMTP-as-a-service platform SendGrid.net. As such, SendGrid's [privacy
+SMTP-as-a-service platform SendGrid.com. As such, SendGrid's [privacy
 policy and terms of service](https://sendgrid.com/policies/privacy/)
 apply in this context.
 
 Due to the nature of the email message format, while email messages may
-be encrypted in transit (our subsmission IS encrypted, whether your
+be encrypted in transit (our submission IS encrypted, whether your
 email provider accepts encrypted SMTP traffic depends on their specific
 configuration), email messages may include and SendGrid systems may see
 but not store or act on the following information:
@@ -181,7 +181,7 @@ in your personal settings.
     using a secure 4096-bit RSA key and are only accessible by the forum
     administrators.
 
-  - Private messges (PMs) you sent to other users can be deleted from
+  - Private messages (PMs) you sent to other users can be deleted from
     your inbox and outbox in the same manner.
 
   - For other kind of deletion requests please contact the forum
