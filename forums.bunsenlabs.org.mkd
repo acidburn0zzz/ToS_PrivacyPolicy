@@ -98,7 +98,7 @@ metadata and the respective purpose of the data bits.
 
 #### Mandatory user-provided data
 
-  - Nick name: Handle defining the log in name and published when
+  - Nickname: Handle defining the log in name and published when
    posting on the message board.
 
   - Email address: Required for manual account activation as an
@@ -128,8 +128,8 @@ board is a very time-consuming task, and time is a scarce resource.
 
 #### Third-party services using your data
 
-We do not transmit your personal data to other services or extents than
-listed below.
+We do not transmit your personal data to services other than listed
+below.
 
 ##### Google Captcha
 
