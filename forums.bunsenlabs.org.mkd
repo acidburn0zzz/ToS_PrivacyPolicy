@@ -1,4 +1,4 @@
-Document revision: 3 (last update: 2018-05-21) ([View changelog](https://github.com/BunsenLabs/ToS_PrivacyPolicy/commits/master/forums.bunsenlabs.org.mkd))
+Document revision: 4 (last update: 2018-05-22) ([View changelog](https://github.com/BunsenLabs/ToS_PrivacyPolicy/commits/master/forums.bunsenlabs.org.mkd))
 
   1. [General Guidelines](#general-guidelines)
   2. [Spam and Abuse Policy](#spam-and-abuse-policy)
@@ -52,7 +52,7 @@ Document revision: 3 (last update: 2018-05-21) ([View changelog](https://github.
 
 We strive to operate BunsenLabs services in compliance with the rules of
 the European Union's General Data Protection Rules. By accepting these
-rules, you consent to our your personal information being recorded to
+rules, you consent to your personal information being recorded to
 the extent described below. Our records of your personal data are kept
 as minimal and insignificant as possible as to enable the operation of
 our forums.bunsenlabs.org service only.
