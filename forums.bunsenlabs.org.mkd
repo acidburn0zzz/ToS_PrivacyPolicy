@@ -1,4 +1,4 @@
-Document revision: 3 (last update: 2018-05-21)
+Document revision: 3 (last update: 2018-05-21) ([View changelog](https://github.com/BunsenLabs/ToS_PrivacyPolicy/commits/master/forums.bunsenlabs.org.mkd))
 
   1. [General Guidelines](#general-guidelines)
   2. [Spam and Abuse Policy](#spam-and-abuse-policy)
