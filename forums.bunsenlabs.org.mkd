@@ -225,7 +225,6 @@ settings.
       * johnraff
       * twoion (aka earlybird)
 -   Forum moderators are
-      * Head_on_a_Stick
       * Unia
       * damo
       * hhh
